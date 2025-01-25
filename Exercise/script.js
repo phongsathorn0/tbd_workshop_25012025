@@ -6,6 +6,8 @@
 
 function say_hello() {
     // CODE HERE!!!
+    console.log("Phongsathorn")
+    console.log("Phu")
     console.log("Kantida")
     
 }
